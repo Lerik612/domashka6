@@ -20,7 +20,7 @@
 11. Вывести значение result
 12. Конец
 ## Блок-схема
-![Блок-схема]()
+![Блок-схема](https://github.com/Lerik612/domashka6/blob/master/диаграмма.jpg?raw=true)
 ## 2. Реализация программы
 ```c
 #define _CRT_SECURE_NO_WARNINGS
